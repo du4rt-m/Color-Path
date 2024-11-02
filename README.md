@@ -32,5 +32,5 @@ Download the latest version of **Color Path**:
 ### Key Tools and Technologies
 - **Unity**: Game engine for development.
 - **C#**: Programming language for game logic.
-- **Unity Asset Store**: Free assets used for characters and character customizables.
+- **Unity Asset Store**: Free assets used for skins and character customizables.
 - **Canva**: Used for creating 2D visuals, the logo and promotional graphics.
