@@ -14,7 +14,7 @@
 
 ## 🌟 Features
 - Endless gameplay in dynamic, vibrant and colorful environments.
-- Simple, intuitive controls for swiping and jumping.
+- Simple and intuitive controls for swiping and jumping.
 - Increasing difficulty as the game speeds up, challenging you to keep up.
 - A customizable character shop with skins and accessories to personalize your experience.
 
