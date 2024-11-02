@@ -1,7 +1,7 @@
 # Color Path
 
 ## 🎨 Overview
-**Color Path** is a fast-paced, vibrant mobile game where players swipe and jump through a colorful world. Follow the arrows, match colors accurately, and navigate the path for as long as possible to set a high score. Designed for quick reflexes and sharp focus, Color Path offers a fun and addictive test of color-matching skills
+**Color Path** is a fast-paced, vibrant mobile game where players swipe and jump through a colorful world. Follow the arrows, match colors accurately, and navigate the path for as long as possible to set a high score. Designed for quick reflexes and sharp focus, Color Path combines fun and challenge.
 
 ---
 
