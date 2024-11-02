@@ -6,8 +6,8 @@
 ---
 
 ## 🎮 Gameplay
-- **Match colors** to progress and find the correct path.
-- **Swipe** or **jump** to follow the path and score points.
+- Match colors to progress and find the correct path.
+- Swipe or jump to follow the path and score points.
 - React quickly to avoid falling off course.
 
 ---
@@ -26,12 +26,6 @@ Download the latest version of **Color Path**:
 ---
 
 ## 🔧 Development
-**Color Path** was built from the ground up using Unity and C#, focused on delivering smooth and responsive gameplay. Custom assets and vibrant designs create an immersive and challenging color-navigation experience.
-
-**Color Path** was built from the ground up using Unity and C#. Gameplay focuses on delivering a smooth, responsive experience in an endless runner format. All assets and character customizables were sourced from the Unity Asset Store and are free-to-use resources.
-
-**Color Path** was built from the ground up using Unity and C#. Gameplay focuses on delivering a smooth, responsive experience in an endless runner format. All assets and character customizables were sourced from the Unity Asset Store, while the logo and graphics, including screenshots, were created using Canva.
-
 **Color Path** was built from the ground up using Unity and C#. Gameplay focuses on delivering a smooth, responsive experience in an endless runner format. Assets like characters and character customizables were sourced from the Unity Asset Store and are free-to-use resources. Other 2D visuals, logo and promotional graphics were created using Canva.
 
 ### Key Tools and Technologies
